@@ -54,11 +54,6 @@ XRetriever/
 pip install -r requirements.txt
 ```
 
-Or install as a package:
-
-```bash
-pip install -e .
-```
 
 ### Required Packages
 
